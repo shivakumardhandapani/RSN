@@ -35,7 +35,7 @@ To develop and evaluate a tightly-coupled LIO-SLAM system that:
 - Demonstrated significantly reduced trajectory drift with loop closure enabled
 - Achieved smoother, more accurate maps with IEKF + SC compared to baseline LIO-SAM
 - Enhanced localization with GPS fusion, minimizing RMSE and improving real-time reliability
-- Visualized system performance in urban environments and outdoor scenes (see figures on p. 4–6 of report)
+- Visualized system performance in urban environments and outdoor scenes (see figures on report)
 
 ## 📎 Figures and Visualizations
 
