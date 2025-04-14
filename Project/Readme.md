@@ -37,14 +37,6 @@ To develop and evaluate a tightly-coupled LIO-SLAM system that:
 - Enhanced localization with GPS fusion, minimizing RMSE and improving real-time reliability
 - Visualized system performance in urban environments and outdoor scenes (see figures on report)
 
-## 📎 Figures and Visualizations
-
-- **Page 4, Fig. 1**: Overall system framework flowchart
-- **Page 4, Fig. 2**: Path visualization with/without loop closure
-- **Page 5, Fig. 3**: Loop detection via Scan Context
-- **Page 5, Fig. 4**: Mapping enhancement with IEKF and SC
-- **Page 6, Fig. 5**: GPS fusion reducing IMU error
-
 ## 🧑‍💻 Contributors
 - Palaniappan Yeagappan  
 - Shiva Kumar Dhandapani  
